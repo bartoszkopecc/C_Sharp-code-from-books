@@ -1,0 +1,15 @@
+D:\04 Programy\C#\VS2017_TworzenieAplikacji\Notatnik.NET\Notatnik.NET\bin\Debug\Notatnik.NET.exe.config
+D:\04 Programy\C#\VS2017_TworzenieAplikacji\Notatnik.NET\Notatnik.NET\bin\Debug\Notatnik.NET.exe
+D:\04 Programy\C#\VS2017_TworzenieAplikacji\Notatnik.NET\Notatnik.NET\bin\Debug\Notatnik.NET.pdb
+D:\04 Programy\C#\VS2017_TworzenieAplikacji\Notatnik.NET\Notatnik.NET\obj\Debug\Notatnik.NET.csprojAssemblyReference.cache
+D:\04 Programy\C#\VS2017_TworzenieAplikacji\Notatnik.NET\Notatnik.NET\obj\Debug\MainWindow.g.cs
+D:\04 Programy\C#\VS2017_TworzenieAplikacji\Notatnik.NET\Notatnik.NET\obj\Debug\App.g.cs
+D:\04 Programy\C#\VS2017_TworzenieAplikacji\Notatnik.NET\Notatnik.NET\obj\Debug\Notatnik.NET_MarkupCompile.cache
+D:\04 Programy\C#\VS2017_TworzenieAplikacji\Notatnik.NET\Notatnik.NET\obj\Debug\Notatnik.NET_MarkupCompile.lref
+D:\04 Programy\C#\VS2017_TworzenieAplikacji\Notatnik.NET\Notatnik.NET\obj\Debug\MainWindow.baml
+D:\04 Programy\C#\VS2017_TworzenieAplikacji\Notatnik.NET\Notatnik.NET\obj\Debug\Notatnik.NET.g.resources
+D:\04 Programy\C#\VS2017_TworzenieAplikacji\Notatnik.NET\Notatnik.NET\obj\Debug\Notatnik.NET.Properties.Resources.resources
+D:\04 Programy\C#\VS2017_TworzenieAplikacji\Notatnik.NET\Notatnik.NET\obj\Debug\Notatnik.NET.csproj.GenerateResource.cache
+D:\04 Programy\C#\VS2017_TworzenieAplikacji\Notatnik.NET\Notatnik.NET\obj\Debug\Notatnik.NET.csproj.CoreCompileInputs.cache
+D:\04 Programy\C#\VS2017_TworzenieAplikacji\Notatnik.NET\Notatnik.NET\obj\Debug\Notatnik.NET.exe
+D:\04 Programy\C#\VS2017_TworzenieAplikacji\Notatnik.NET\Notatnik.NET\obj\Debug\Notatnik.NET.pdb
