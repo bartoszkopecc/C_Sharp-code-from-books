@@ -1,0 +1,6 @@
+D:\04 Programy\C#\C#Zadania\4_2\4_2\bin\Debug\4_2.exe.config
+D:\04 Programy\C#\C#Zadania\4_2\4_2\bin\Debug\4_2.exe
+D:\04 Programy\C#\C#Zadania\4_2\4_2\bin\Debug\4_2.pdb
+D:\04 Programy\C#\C#Zadania\4_2\4_2\obj\Debug\4_2.csproj.CoreCompileInputs.cache
+D:\04 Programy\C#\C#Zadania\4_2\4_2\obj\Debug\4_2.exe
+D:\04 Programy\C#\C#Zadania\4_2\4_2\obj\Debug\4_2.pdb
