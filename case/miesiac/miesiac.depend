@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1501789660 source:d:\04 programy\c++\case\miesiac\main.cpp
+	<iostream>
+	<cstdlib>
+
