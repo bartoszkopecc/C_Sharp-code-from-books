@@ -1,0 +1,17 @@
+D:\04 Programy\C#\VS2017_TworzenieAplikacji\Choinka\Choinka\Choinka\bin\Debug\Choinka.exe.config
+D:\04 Programy\C#\VS2017_TworzenieAplikacji\Choinka\Choinka\Choinka\bin\Debug\Choinka.exe
+D:\04 Programy\C#\VS2017_TworzenieAplikacji\Choinka\Choinka\Choinka\bin\Debug\Choinka.pdb
+D:\04 Programy\C#\VS2017_TworzenieAplikacji\Choinka\Choinka\Choinka\obj\Debug\Choinka.csprojAssemblyReference.cache
+D:\04 Programy\C#\VS2017_TworzenieAplikacji\Choinka\Choinka\Choinka\obj\Debug\MainWindow.g.cs
+D:\04 Programy\C#\VS2017_TworzenieAplikacji\Choinka\Choinka\Choinka\obj\Debug\App.g.cs
+D:\04 Programy\C#\VS2017_TworzenieAplikacji\Choinka\Choinka\Choinka\obj\Debug\Choinka_MarkupCompile.cache
+D:\04 Programy\C#\VS2017_TworzenieAplikacji\Choinka\Choinka\Choinka\obj\Debug\Choinka_MarkupCompile.lref
+D:\04 Programy\C#\VS2017_TworzenieAplikacji\Choinka\Choinka\Choinka\obj\Debug\MainWindow.baml
+D:\04 Programy\C#\VS2017_TworzenieAplikacji\Choinka\Choinka\Choinka\obj\Debug\Choinka.g.resources
+D:\04 Programy\C#\VS2017_TworzenieAplikacji\Choinka\Choinka\Choinka\obj\Debug\Choinka.Properties.Resources.resources
+D:\04 Programy\C#\VS2017_TworzenieAplikacji\Choinka\Choinka\Choinka\obj\Debug\Choinka.csproj.GenerateResource.cache
+D:\04 Programy\C#\VS2017_TworzenieAplikacji\Choinka\Choinka\Choinka\obj\Debug\Choinka.csproj.CoreCompileInputs.cache
+D:\04 Programy\C#\VS2017_TworzenieAplikacji\Choinka\Choinka\Choinka\obj\Debug\Choinka.exe
+D:\04 Programy\C#\VS2017_TworzenieAplikacji\Choinka\Choinka\Choinka\obj\Debug\Choinka.pdb
+D:\04 Programy\C#\VS2017_TworzenieAplikacji\Choinka\Choinka\Choinka\obj\Debug\Choinka_Content.g.cs
+D:\04 Programy\C#\VS2017_TworzenieAplikacji\Choinka\Choinka\Choinka\bin\Debug\DJANGO.mp3
