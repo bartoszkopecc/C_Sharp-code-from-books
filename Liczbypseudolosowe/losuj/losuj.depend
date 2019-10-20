@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1501617557 source:d:\04 programy\c++\liczbypseudolosowe\losuj\main.cpp
+	<iostream>
+	<cstdlib>
+	<time.h>
+	<stdio.h>
+
