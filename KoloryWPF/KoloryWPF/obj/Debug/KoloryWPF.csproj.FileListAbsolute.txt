@@ -1,0 +1,15 @@
+D:\04 Programy\C#\VS2017_TworzenieAplikacji\KoloryWPF\KoloryWPF\bin\Debug\KoloryWPF.exe.config
+D:\04 Programy\C#\VS2017_TworzenieAplikacji\KoloryWPF\KoloryWPF\bin\Debug\KoloryWPF.exe
+D:\04 Programy\C#\VS2017_TworzenieAplikacji\KoloryWPF\KoloryWPF\bin\Debug\KoloryWPF.pdb
+D:\04 Programy\C#\VS2017_TworzenieAplikacji\KoloryWPF\KoloryWPF\obj\Debug\KoloryWPF.csprojAssemblyReference.cache
+D:\04 Programy\C#\VS2017_TworzenieAplikacji\KoloryWPF\KoloryWPF\obj\Debug\MainWindow.g.cs
+D:\04 Programy\C#\VS2017_TworzenieAplikacji\KoloryWPF\KoloryWPF\obj\Debug\App.g.cs
+D:\04 Programy\C#\VS2017_TworzenieAplikacji\KoloryWPF\KoloryWPF\obj\Debug\KoloryWPF_MarkupCompile.cache
+D:\04 Programy\C#\VS2017_TworzenieAplikacji\KoloryWPF\KoloryWPF\obj\Debug\KoloryWPF_MarkupCompile.lref
+D:\04 Programy\C#\VS2017_TworzenieAplikacji\KoloryWPF\KoloryWPF\obj\Debug\MainWindow.baml
+D:\04 Programy\C#\VS2017_TworzenieAplikacji\KoloryWPF\KoloryWPF\obj\Debug\KoloryWPF.g.resources
+D:\04 Programy\C#\VS2017_TworzenieAplikacji\KoloryWPF\KoloryWPF\obj\Debug\KoloryWPF.Properties.Resources.resources
+D:\04 Programy\C#\VS2017_TworzenieAplikacji\KoloryWPF\KoloryWPF\obj\Debug\KoloryWPF.csproj.GenerateResource.cache
+D:\04 Programy\C#\VS2017_TworzenieAplikacji\KoloryWPF\KoloryWPF\obj\Debug\KoloryWPF.csproj.CoreCompileInputs.cache
+D:\04 Programy\C#\VS2017_TworzenieAplikacji\KoloryWPF\KoloryWPF\obj\Debug\KoloryWPF.exe
+D:\04 Programy\C#\VS2017_TworzenieAplikacji\KoloryWPF\KoloryWPF\obj\Debug\KoloryWPF.pdb
